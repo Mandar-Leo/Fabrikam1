@@ -1,0 +1,24 @@
+{
+  "name": "fabrikam",
+  "version": "1.0.0",
+  "description": "\"This repository consist of node js application for fabrikam company\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mandar-Leo/Fabrikam.git"
+  },
+  "author": "mandar chaudhari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mandar-Leo/Fabrikam/issues"
+  },
+  "homepage": "https://github.com/Mandar-Leo/Fabrikam#readme",
+  "dependencies": {
+    "express.js": "^1.0.0"
+    
+  }
+}
